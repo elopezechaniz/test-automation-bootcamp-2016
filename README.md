@@ -1,94 +1,94 @@
-# **Test Automation BootCamp 2016 base folders layout**
+# Test Automation BootCamp 2016 base folders layout
 
 NOTE: This document is tentative and has being based on the one used for the JAVA bootcamp. Just used its structure and some usefull links which were compatible for the automation bootcamp. It is incomplete and probably with errors. Hopefully this document may be used as base for the final one.
 
 Please, use this repository as a base for you training phase. The idea is to fork this project so everyone use the same folder structure for the exercises.
 
-It's extremely important to keep the key points easy to be verified by the reviewers, so **don't mix the key points with the rest of the exercises**
+It's extremely important to keep the key points easy to be verified by the reviewers, so don't mix the key points with the rest of the exercises
 
-# **Material**
+# Material
 
-# **Test Automation Boot Camp**
+# Test Automation Boot Camp
 
-### **Are you ready for it?**
+###Are you ready for it?
 
-#### **Index**
+####Index
 
 1. [Objective](#Objective)
 
-2. [Who Should Attend](**Who Should Attend)
+2. [Who Should Attend](Who Should Attend)
 
-3. [Duration](*Duration)
+3. [Duration](Duration)
 
-4. [Technical Assistance](*Technical Assistance)
+4. [Technical Assistance](Technical Assistance)
 
-5. [Performance Measurement](*Performance Measurement)
+5. [Performance Measurement](Performance Measurement)
 
-6. [Handling advanced Developers](*Handling advanced Developers)
+6. [Handling advanced Developers](Handling advanced Developers)
 
-7. [Materials](*Materials)
+7. [Materials](Materials)
 
-8. [General Guidelines](*General Guidelines)
+8. [General Guidelines](General Guidelines)
 
 9. [Proposed Test Application](#heading=h.i9l439a744g7)
 
-10. [Learning Days](*Learning Days)
+10. [Learning Days](Learning Days)
 
-    * Topic 0: Basic programing knowledge 
+     Topic 0: Basic programing knowledge 
 
-    * Topic 1: Environment setup
+     Topic 1: Environment setup
 
-    * Topic 2: Testing
+     Topic 2: Testing
 
-    * Topic 3: Selenium
+     Topic 3: Selenium
 
-    * Topic 4: Framework
+     Topic 4: Framework
 
-    * Topic 5: REST services testing
+     Topic 5: REST services testing
 
 11. Your First Automation Project Starts Now!
 
-###Objective
+###Objective###
 
 This course teaches the basics knowledge a Test Automation Engineer should have.
 
-→ [index](**Index**)
+→ [index](Index)
 
-### **Who Should Attend**
+###Who Should Attend###
 
 The training will start at a low level and does not require in depth knowledge of the platform in question. Desirable participant profile: trainees and outside Globant candidates. A basic knowledge on a object oriented programming (OOP) language and basic OOP concepts is desired.
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-### **Duration**
+###Duration###
 
 Four weeks total.
 
 Three weeks for guided learning and one week for practice project.
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-### **Technical Assistance**
+###Technical Assistance###
 
 You can contact other bootcamp participants or any available tutor if you need technical assistance. We will create one chat for boot camp members only, and another one for boot camp members and tutors when boot camp starts.
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-### **Performance Measurement**
+###Performance Measurement###
 
 1. Code review after each practice.
 
 2. Checkpoint completion after Learning stage with your assigned tutor
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-### **Handling Advanced Developers**
+###Handling Advanced Developers###
 
 Developers that move faster than average can go ahead and complete as much exercises as wanted, but do not jump ahead if previous exercises aren’t finished.
 
 → index
 
-### **Materials**
+###Materials###
 
 1. Install [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
 
@@ -100,9 +100,9 @@ Developers that move faster than average can go ahead and complete as much exerc
 
 5. Fork this repo [https://github.com/](https://github.com/juanpablopizarro/java-bootcamp-2016) to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-### **General Guidelines**
+###General Guidelines###
 
 The boot camp is organized in the following way:
 
@@ -122,37 +122,37 @@ The boot camp is organized in the following way:
 
 8. Code must adhere to this eclipse code formatter. See importing instructions in this [link](http://www.avajava.com/tutorials/lessons/how-do-i-share-my-code-formatting-settings-with-another-user.html?page=2).
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-### **Proposed Test Application**
+###Proposed Test Application###
 
 Add a description of the application to be tested here….
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-### **Learning Days**
+###Learning Days###
 
 Each day you will grab the fundamentals of the key test automation project and implementation processes.
 
 On each learning day you will have to:
 
-1. **Read:**
+1. Read:
 
 2. We will provide you with documentation related with current sprint content so you can have a background reference, guide and examples to complete the following practice.
 
-3. **Practice:**
+3. Practice:
 
-4. You will implement the previously gathered knowledge in simple coding activities. Most important task numbers are listed in the "*Key Points*" section for each day and they should get most of your attention; if you feel you don’t have enough time to complete all tasks, start with these ones when possible.
+4. You will implement the previously gathered knowledge in simple coding activities. Most important task numbers are listed in the "Key Points" section for each day and they should get most of your attention; if you feel you don’t have enough time to complete all tasks, start with these ones when possible.
 
-5. **Commit:**
+5. Commit:
 
 6. You will commit all your code on a daily basis, when you finish your practice.
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-#### **Topic 0: Introduction to Object Oriented Programming Concepts (2 days)**
+####Topic 0: Introduction to Object Oriented Programming Concepts (2 days)####
 
-##### **Reading:**
+#####Reading:#####
 
 1. Beginners: Java Concepts [basic tutorial](http://docs.oracle.com/javase/tutorial/java/concepts/) (in case you need it!)
 
@@ -160,11 +160,11 @@ On each learning day you will have to:
 
 3. Explore [Design Patterns](http://www.avajava.com/tutorials/categories/design-patterns). Minimum scope: singleton, template method, factory, decorator.
 
-##### **Extra documentation:**
+#####Extra documentation:#####
 
-* [Design Patterns Card](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf)
+ [Design Patterns Card](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf)
 
-##### **Practice:**
+#####Practice:#####
 
 Note that you don't need to create real database connections, [just mock it](https://en.wikipedia.org/wiki/Mock_object) (create a simulation of them).
 
@@ -176,19 +176,19 @@ Note that you don't need to create real database connections, [just mock it](htt
 
 4. Create a builder example for database connection.
 
-##### **Key Points:**
+#####Key Points:#####
 
 3
 
-##### **Commit:**
+#####Commit:#####
 
 Commit your practice code.
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-#### **Topic 1: Environment setup (1 day)**
+####Topic 1: Environment setup (1 day)
 
-##### **Reading:**
+#####Reading:#####
 
 1. [What is Maven?](http://maven.apache.org/what-is-maven.html)
 
@@ -200,55 +200,55 @@ Commit your practice code.
 
     2. mvn eclipse:eclipse
 
-##### **Practice:**
+#####Practice:#####
 
 (It is assumed that Maven is already installed and working).
 
 1. Build the project:
 
-##### **Key Points:**
+#####Key Points:#####
 
 1,2,3
 
-##### **Commit:**
+#####Commit:#####
 
 Commit your practice code.
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-#### **Topic 3: Testing (3**** days****)**
+####Topic 3: Testing (3 days)####
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-#### **Topic 4: Selenium (3 days)**
+####Topic 4: Selenium (3 days)####
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-#### **Topic 5: Framework**
+####Topic 5: Framework####
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-#### **Topic 6: REST testing (2 days)**
+####Topic 6: REST testing (2 days)####
 
-##### **Reading:**
+#####Reading:#####
 
 1. [Introduction to REST](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
 
-##### **Practice:**
+#####Practice:#####
 
-##### **Key Points:**
+#####Key Points:#####
 
-##### **Commit:**
+#####Commit:#####
 
 Commit your practice code.
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
-### **Your First Project Starts Now!**
+###Your First Project Starts Now!
 
-#### **Final Project (****3 days****)**
+####Final Project (3 days)
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](#index)
 
 Thanks for reading!
 
