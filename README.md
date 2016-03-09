@@ -16,23 +16,23 @@ It's extremely important to keep the key points easy to be verified by the revie
 
 1. [Objective](#Objective)
 
-2. [Who Should Attend](Who Should Attend)
+2. [Who Should Attend](#Who-Should-Attend)
 
 3. [Duration](Duration)
 
-4. [Technical Assistance](Technical Assistance)
+4. [Technical Assistance](#Technical-Assistance)
 
-5. [Performance Measurement](Performance Measurement)
+5. [Performance Measurement](#Performance-Measurement)
 
-6. [Handling advanced Developers](Handling advanced Developers)
+6. [Handling advanced Developers](#Handling-advanced-Developers)
 
-7. [Materials](Materials)
+7. [Materials](#Materials)
 
-8. [General Guidelines](General Guidelines)
+8. [General Guidelines](General-Guidelines)
 
-9. [Proposed Test Application](#heading=h.i9l439a744g7)
+9. [Proposed Test Application](#Proposed-Test-Application)
 
-10. [Learning Days](Learning Days)
+10. [Learning Days](#Learning-Days)
 
      Topic 0: Basic programing knowledge 
 
