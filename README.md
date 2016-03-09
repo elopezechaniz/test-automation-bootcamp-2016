@@ -14,25 +14,25 @@ It's extremely important to keep the key points easy to be verified by the revie
 
 ####Index
 
-1. [Objective](#Objective)
+1. [Objective](#objective)
 
-2. [Who Should Attend](#Who-Should-Attend)
+2. [Who Should Attend](#who-should-attend)
 
-3. [Duration](Duration)
+3. [Duration](#duration)
 
-4. [Technical Assistance](#Technical-Assistance)
+4. [Technical Assistance](#technical-assistance)
 
-5. [Performance Measurement](#Performance-Measurement)
+5. [Performance Measurement](#performance-measurement)
 
-6. [Handling advanced Developers](#Handling-advanced-Developers)
+6. [Handling advanced Developers](#handling-advanced-developers)
 
-7. [Materials](#Materials)
+7. [Materials](#materials)
 
-8. [General Guidelines](General-Guidelines)
+8. [General Guidelines](general-guidelines)
 
-9. [Proposed Test Application](#Proposed-Test-Application)
+9. [Proposed Test Application](#proposed-test-application)
 
-10. [Learning Days](#Learning-Days)
+10. [Learning Days](#learning-days)
 
      Topic 0: Basic programing knowledge 
 
@@ -48,19 +48,19 @@ It's extremely important to keep the key points easy to be verified by the revie
 
 11. Your First Automation Project Starts Now!
 
-###Objective###
+###Objective
 
 This course teaches the basics knowledge a Test Automation Engineer should have.
 
 → [index](Index)
 
-###Who Should Attend###
+###Who Should Attend
 
 The training will start at a low level and does not require in depth knowledge of the platform in question. Desirable participant profile: trainees and outside Globant candidates. A basic knowledge on a object oriented programming (OOP) language and basic OOP concepts is desired.
 
 → [index](#index)
 
-###Duration###
+###Duration
 
 Four weeks total.
 
@@ -68,13 +68,13 @@ Three weeks for guided learning and one week for practice project.
 
 → [index](#index)
 
-###Technical Assistance###
+###Technical Assistance
 
 You can contact other bootcamp participants or any available tutor if you need technical assistance. We will create one chat for boot camp members only, and another one for boot camp members and tutors when boot camp starts.
 
 → [index](#index)
 
-###Performance Measurement###
+###Performance Measurement
 
 1. Code review after each practice.
 
@@ -82,13 +82,13 @@ You can contact other bootcamp participants or any available tutor if you need t
 
 → [index](#index)
 
-###Handling Advanced Developers###
+###Handling Advanced Developers
 
 Developers that move faster than average can go ahead and complete as much exercises as wanted, but do not jump ahead if previous exercises aren’t finished.
 
 → index
 
-###Materials###
+###Materials
 
 1. Install [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
 
@@ -102,7 +102,7 @@ Developers that move faster than average can go ahead and complete as much exerc
 
 → [index](#index)
 
-###General Guidelines###
+###General Guidelines
 
 The boot camp is organized in the following way:
 
@@ -124,13 +124,13 @@ The boot camp is organized in the following way:
 
 → [index](#index)
 
-###Proposed Test Application###
+###Proposed Test Application
 
 Add a description of the application to be tested here….
 
 → [index](#index)
 
-###Learning Days###
+###Learning Days
 
 Each day you will grab the fundamentals of the key test automation project and implementation processes.
 
