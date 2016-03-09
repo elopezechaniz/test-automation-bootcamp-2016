@@ -14,6 +14,7 @@ It's extremely important to keep the key points easy to be verified by the revie
 
 ####Index
 
+
 1. [Objective](#objective)
 
 2. [Who Should Attend](#who-should-attend)
@@ -52,7 +53,7 @@ It's extremely important to keep the key points easy to be verified by the revie
 
 This course teaches the basics knowledge a Test Automation Engineer should have.
 
-→ [index](Index)
+→ [index](#index)
 
 ###Who Should Attend
 
@@ -86,7 +87,7 @@ You can contact other bootcamp participants or any available tutor if you need t
 
 Developers that move faster than average can go ahead and complete as much exercises as wanted, but do not jump ahead if previous exercises aren’t finished.
 
-→ index
+→ [index](#index)
 
 ###Materials
 
