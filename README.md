@@ -14,9 +14,9 @@ It's extremely important to keep the key points easy to be verified by the revie
 
 #### **Index**
 
-1. [Objective](*Objective)
+1. [Objective](**Objective**)
 
-2. [Who Should Attend](*Who Should Attend)
+2. [Who Should Attend](**Who Should Attend)
 
 3. [Duration](*Duration)
 
@@ -52,7 +52,7 @@ It's extremely important to keep the key points easy to be verified by the revie
 
 This course teaches the basics knowledge a Test Automation Engineer should have.
 
-→ [index](#heading=h.bmkid0cspccr)
+→ [index](**Index**)
 
 ### **Who Should Attend**
 
