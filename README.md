@@ -14,7 +14,7 @@ It's extremely important to keep the key points easy to be verified by the revie
 
 #### **Index**
 
-1. [Objective](**Objective**)
+1. [Objective](#Objective)
 
 2. [Who Should Attend](**Who Should Attend)
 
@@ -48,7 +48,7 @@ It's extremely important to keep the key points easy to be verified by the revie
 
 11. Your First Automation Project Starts Now!
 
-### **Objective**
+###Objective
 
 This course teaches the basics knowledge a Test Automation Engineer should have.
 
