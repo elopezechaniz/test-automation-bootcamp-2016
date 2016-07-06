@@ -4,7 +4,7 @@ NOTE: This document is tentative and has being based on the one used for the JAV
 
 Please, use this repository as a base for you training phase. The idea is to fork this project so everyone use the same folder structure for the exercises.
 
-It's extremely important to keep the key points easy to be verified by the reviewers, so don't mix the key points with the rest of the exercises
+It's extremely important to keep the key points easy to be verified by the reviewers, so don't mix the key points with the rest of the exercises.
 
 # Material
 
@@ -79,7 +79,7 @@ You can contact other bootcamp participants or any available tutor if you need t
 
 1. Code review after each practice.
 
-2. Checkpoint completion after Learning stage with your assigned tutor
+2. Checkpoint completion after Learning stage with your assigned tutor.
 
 → [index](#index)
 
@@ -99,7 +99,7 @@ Developers that move faster than average can go ahead and complete as much exerc
 
 4. Create your own [GitHub](https://github.com/) account. Follow this [guideline](https://help.github.com/articles/set-up-git) to setup your account. Also you can read further about Git in [Try Git](https://try.github.io/levels/1/challenges/1) or [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
-5. Fork this repo [https://github.com/](https://github.com/juanpablopizarro/java-bootcamp-2016) to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
+5. Fork this repo [https://github.com/](https://github.com/elopezechaniz/test-automation-bootcamp-2016) to use as a base to host the project code. Read [this](https://help.github.com/articles/fork-a-repo/) for instructions.
 
 → [index](#index)
 
@@ -109,7 +109,7 @@ The boot camp is organized in the following way:
 
 1. The first three weeks will be used for intensive self learning. Each topic will have reading and practices parts. Tutors will be available to answer technical questions on a given chat room.
 
-2. The next week will be used to develop an application following a life process.
+2. The next week will be used to develop a base test application following a life process.
 
 3. One boot camp chat will be created for feedback and technical assistance:
 
@@ -139,15 +139,15 @@ On each learning day you will have to:
 
 1. Read:
 
-2. We will provide you with documentation related with current sprint content so you can have a background reference, guide and examples to complete the following practice.
+We will provide you with documentation related with current sprint content so you can have a background reference, guide and examples to complete the following practice.
 
-3. Practice:
+2. Practice:
 
-4. You will implement the previously gathered knowledge in simple coding activities. Most important task numbers are listed in the "Key Points" section for each day and they should get most of your attention; if you feel you don’t have enough time to complete all tasks, start with these ones when possible.
+You will implement the previously gathered knowledge in simple coding activities. Most important task numbers are listed in the "Key Points" section for each day and they should get most of your attention; if you feel you don’t have enough time to complete all tasks, start with these ones when possible.
 
-5. Commit:
+3. Commit:
 
-6. You will commit all your code on a daily basis, when you finish your practice.
+You will commit all your code on a daily basis, when you finish your practice.
 
 → [index](#index)
 
@@ -201,6 +201,8 @@ Commit your practice code.
 
     2. mvn eclipse:eclipse
 
+    3. Import maven project to eclipse    
+
 #####Practice:#####
 
 (It is assumed that Maven is already installed and working).
@@ -209,7 +211,33 @@ Commit your practice code.
 
 #####Key Points:#####
 
-1,2,3
+3
+
+→ [index](#index)
+
+####Topic 3: Testing (3 days)####
+
+#####Reading:#####
+
+[Testing theory](https://en.wikipedia.org/wiki/Software_testing)
+[Test case](https://wiki.openoffice.org/wiki/QA/Testcase/How_to_write_test_case)
+
+#####Practice:#####
+
+ 1. Write x test cases for smoke suite
+ 2. 
+ 
+#####Key Points:#####
+
+→ [index](#index)
+
+####Topic 4: Selenium (3 days)####
+
+#####Reading:#####
+
+#####Practice:#####
+
+#####Key Points:#####
 
 #####Commit:#####
 
@@ -217,15 +245,17 @@ Commit your practice code.
 
 → [index](#index)
 
-####Topic 3: Testing (3 days)####
-
-→ [index](#index)
-
-####Topic 4: Selenium (3 days)####
-
-→ [index](#index)
-
 ####Topic 5: Framework####
+
+#####Reading:#####
+
+#####Practice:#####
+
+#####Key Points:#####
+
+#####Commit:#####
+
+Commit your practice code.
 
 → [index](#index)
 
