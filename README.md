@@ -57,7 +57,7 @@ This course teaches the basics knowledge a Test Automation Engineer should have.
 
 ###Who Should Attend
 
-The training will start at a low level and does not require in depth knowledge of the platform in question. Desirable participant profile: trainees and outside Globant candidates. A basic knowledge on a object oriented programming (OOP) language and basic OOP concepts is desired.
+The training will start at a low level and does not require in depth knowledge of the platform in question. Desirable participant profile: trainees and developers wanting to learn test automation. A basic knowledge on a object oriented programming (OOP) language and basic OOP concepts is desired.
 
 → [index](#index)
 
